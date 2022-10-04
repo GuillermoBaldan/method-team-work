@@ -1,12 +1,11 @@
 #Welcome to the DevTeam work method!
 ```mermaid
 graph LR
-A[(Circle)] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
+A[UI Desing Phase] --> B[Coding Phase]
+C[Algorithm Design Phase] --> B
 ```
-
+- Design Phase
+- Coding Phase
 
 ##Glossary of terms
 
