@@ -21,6 +21,7 @@ Ejemplo:
 
 - Definir la estructura
       	- Definición de vistas del proyectos
+			- Repositorio de Figma del proyecto
 	- Diagrama de componentes
 	
 
