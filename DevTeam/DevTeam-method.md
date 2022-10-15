@@ -6,6 +6,8 @@ C[Algorithm Design Phase] --> B
 ```
 - Design Phase
 - Coding Phase
+##Method for Meetings
+
 
 ##Glossary of terms
 
